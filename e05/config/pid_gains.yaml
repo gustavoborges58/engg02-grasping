@@ -1,0 +1,30 @@
+gazebo_ros_control:
+  pid_gains:
+    joint1:
+      p: 1.0
+      i: 0.01
+      d: 0.01
+    joint2:
+      p: 1.0
+      i: 0.01
+      d: 0.01
+    joint3:
+      p: 1.0
+      i: 0.01
+      d: 0.01
+    joint4:
+      p: 1.0
+      i: 0.01
+      d: 0.01
+    joint5:
+      p: 1.0
+      i: 0.01
+      d: 0.01
+    joint6:
+      p: 1.0
+      i: 0.01
+      d: 0.01
+    gripper_finger1_joint:
+      p: 1.0
+      i: 0.01
+      d: 0.01
