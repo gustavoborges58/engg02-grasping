@@ -23,12 +23,12 @@
 	  </transmission>
    </xacro:macro>
     <!-- Transmissions for ros control -->
-    <xacro:transmission_block joint_name="joint1"/>
-    <xacro:transmission_block joint_name="joint2"/>
-    <xacro:transmission_block joint_name="joint3"/>
-    <xacro:transmission_block joint_name="joint4"/>
-    <xacro:transmission_block joint_name="joint5"/>
-    <xacro:transmission_block joint_name="joint6"/>
+    <xacro:transmission_block joint_name="joint_0"/>
+    <xacro:transmission_block joint_name="joint_1"/>
+    <xacro:transmission_block joint_name="joint_2"/>
+    <xacro:transmission_block joint_name="joint_3"/>
+    <xacro:transmission_block joint_name="joint_4"/>
+    <xacro:transmission_block joint_name="joint_5"/>
     <!-- <xacro:include filename="$(find e05)/urdf/e05.gazebo.xacro" /> -->
 
 
