@@ -1,6 +1,6 @@
-# Manipulador SCARA com Garra – Simulação ROS + Gazebo
+# Aplicações de Grasping – Simulação ROS + Gazebo
 
-Este projeto consiste em uma simulação de um manipulador SCARA com uma garra Robotiq 2F-85, utilizando **ROS** e **Gazebo**. O robô é controlado via `ros_control` e sua cinemática é baseada em parâmetros DH. A simulação inclui controle PID e visualização 3D da cena.
+Este projeto consiste em uma simulação de um manipulador com uma garra Robotiq 2F-85, utilizando **ROS** e **Gazebo**. O robô é controlado via `ros_control` e tem como objetivo realizar a demonstração do conceito de Grasping em robótica. A simulação inclui controle PID e visualização 3D da cena.
 
 ## ✅ Requisitos
 
