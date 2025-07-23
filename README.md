@@ -63,7 +63,7 @@ Usando a Joint State Publisher GUI, manipular a posição da garra e ângulo de 
 ## ⚙️ Notas Técnicas
 
 * O gripper utiliza o pacote oficial da robotiq_2f_85.
-* Os ganhos PID estão configurados no arquivo `/e05/config/pid_gains/yaml`
+* Os ganhos PID estão configurados no arquivo `/e05/config/pid_gains.yaml`
 
 ## 🐍 Modelagem em Python
 
