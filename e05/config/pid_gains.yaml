@@ -1,26 +1,6 @@
 gazebo_ros_control:
   pid_gains:
-    joint_0:
-      p: 1.0
-      i: 0.01
-      d: 0.01
-    joint_1:
-      p: 1.0
-      i: 0.01
-      d: 0.01
-    joint_2:
-      p: 1.0
-      i: 0.01
-      d: 0.01
-    joint_3:
-      p: 1.0
-      i: 0.01
-      d: 0.01
     joint_4:
-      p: 1.0
-      i: 0.01
-      d: 0.01
-    joint_5:
       p: 1.0
       i: 0.01
       d: 0.01

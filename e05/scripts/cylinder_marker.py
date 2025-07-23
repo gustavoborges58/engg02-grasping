@@ -4,7 +4,7 @@ import rospy
 from visualization_msgs.msg import Marker
 
 rospy.init_node('cylinder_marker_node')
-pub = rospy.Publisher('visualization_marker', Marker, queue_size=10)
+pub = rospy.Publisher('beer', Marker, queue_size=10)
 
 marker = Marker()
 marker.header.frame_id = "base_link"
