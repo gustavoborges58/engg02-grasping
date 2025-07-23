@@ -67,4 +67,4 @@ Usando a Joint State Publisher GUI, manipular a posição da garra e ângulo de 
 
 ## 🐍 Modelagem em Python
 
-[Implementação Modelo Gripper Robotiq 2F-85 - Tecnicas de Grasping.ipynb](https://colab.research.google.com/drive/1TsliUVON-hOqVyTDr-TxEpC-8tPIIfzb?usp=sharing "Link do Google Colab").
+Link para script em python no Google Colab, contendo a visualização esquemática animada da vista superior do movimento de pega da garrafa e implementação dos modelos dinâmicos do robô criado e do robô real, juntamente com gráfico comparativo das forças de contato aplicadas por cada robô: [Implementação Modelo Gripper Robotiq 2F-85 - Tecnicas de Grasping.ipynb](https://colab.research.google.com/drive/1TsliUVON-hOqVyTDr-TxEpC-8tPIIfzb?usp=sharing "Link do Google Colab").
