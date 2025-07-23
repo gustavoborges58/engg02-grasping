@@ -8,7 +8,6 @@ Este projeto consiste em uma simulação de um manipulador SCARA com uma garra R
 - ROS Noetic Ninjemys
 - Gazebo 11
 - Catkin Tools (opcional, mas recomendado)
-- [robotiq](https://github.com/ros-industrial/robotiq) (pacote para garra Robotiq)
 - RViz (para visualização)
 - `joint_state_publisher_gui`
 
